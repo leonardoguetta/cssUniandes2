@@ -1,3 +1,5 @@
-div{
-    color:darkred;
+div {
+    color: darkred; /* Color del texto dentro del div */
+    outline: 3px solid red; /* Contorno rojo sólido */
+    border: 2px solid orange; /* Borde naranja sólido */
 }
